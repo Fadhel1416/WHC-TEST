@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  php:
+    build: .
+    container_name: php
+    ports:
+      - "28084:80"
+    volumes:
+      - ./src:/var/www/html
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
