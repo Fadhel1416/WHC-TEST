@@ -1,6 +1,6 @@
 # 🚀 WHC Command App
 
-A beautifully designed PHP application built with Bootstrap and jQuery that allows users to execute simple commands via a clean web interface. The app runs inside a Docker container and is exposed on **port 28085**.
+A beautifully designed PHP application built with Bootstrap and jQuery that allows users to execute simple commands via a clean web interface. The app runs inside a Docker container and is exposed on **port 28084**.
 
 ---
 
