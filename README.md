@@ -34,7 +34,7 @@ cd  WHC-TEST
 - docker-compose up -d
 
 ## 🛠️ Access the application in your browser:
-*http://localhost:28085
+*http://localhost:28084
 
 
 ## 🛠️ Infos
